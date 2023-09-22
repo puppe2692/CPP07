@@ -6,15 +6,15 @@
 #    By: nwyseur <nwyseur@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/28 21:18:35 by nwyseur           #+#    #+#              #
-#    Updated: 2023/09/21 16:17:31 by nwyseur          ###   ########.fr        #
+#    Updated: 2023/09/22 11:56:19 by nwyseur          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME		:= iter
+NAME		:= Array
 
 SRCS_FILES	:= main.cpp \
 
-HEADER_FILE	:= iter.hpp \
+HEADER_FILE	:= Array.hpp \
 
 SRCS_DIR	:= ./srcs/
 INC_DIR		:= ./includes/
